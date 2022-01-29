@@ -1,0 +1,21 @@
+POP_SIZE = 300
+CRO_PROB = 0.9
+MUT_PROB = 0.2
+GEN_SIZE = 50000
+OFF_SIZE = 600
+RUNS = 1
+FILENAME = 'tho40.dat'
+
+Total time: 801.7859070301056
+Costo promedio: 250554.0
+Desviación estandar de costos: 0.0
+Mejor solución encontrada: [37 18 19  0  1 13 38 39 30  4 21 14 22 27 36 17 25 26 12 20 29 15 32 23
+  6 34 28  5 31  9  3 33 35 24 11 10  7 16  8  2]: 250554
+Peor solución encontrada: [37 18 19  0  1 13 38 39 30  4 21 14 22 27 36 17 25 26 12 20 29 15 32 23
+  6 34 28  5 31  9  3 33 35 24 11 10  7 16  8  2]: 250554
+Tiempo promedio de ejecución: 801.7859070301056
+Desviación estandar tiempo de ejecución: 0.0
+Valor máximo (tiempo de ejecución): 801.7859070301056
+Valor mínimo (tiempo de ejecución): 801.7859070301056
+
+================================================================================================================
