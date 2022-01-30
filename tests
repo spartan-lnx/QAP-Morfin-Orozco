@@ -1,0 +1,213 @@
+POP_SIZE = 300
+CRO_PROB = 0.9
+MUT_PROB = 0.2
+GEN_SIZE = 50000
+OFF_SIZE = 600
+RUNS = 1
+FILENAME = 'tho40.dat'
+
+Total time: 801.7859070301056
+Costo promedio: 250554.0
+Desviación estandar de costos: 0.0
+Mejor solución encontrada: [37 18 19  0  1 13 38 39 30  4 21 14 22 27 36 17 25 26 12 20 29 15 32 23
+  6 34 28  5 31  9  3 33 35 24 11 10  7 16  8  2]: 250554
+Peor solución encontrada: [37 18 19  0  1 13 38 39 30  4 21 14 22 27 36 17 25 26 12 20 29 15 32 23
+  6 34 28  5 31  9  3 33 35 24 11 10  7 16  8  2]: 250554
+Tiempo promedio de ejecución: 801.7859070301056
+Desviación estandar tiempo de ejecución: 0.0
+Valor máximo (tiempo de ejecución): 801.7859070301056
+Valor mínimo (tiempo de ejecución): 801.7859070301056
+
+========================================================================================================
+
+POP_SIZE = 300
+CRO_PROB = 0.9
+MUT_PROB = 0.2
+GEN_SIZE = 10000
+OFF_SIZE = 600
+RUNS = 1
+FILENAME = 'tho40.dat'
+
+Total time: 172.0122230052948
+Costo promedio: 248970.0
+Desviación estandar de costos: 0.0
+Mejor solución encontrada: [37 30 26 25 20 23 39  2 22  4 12 15 31  9  7 16 38 19  0 14 13 10  8 33
+  3 36 21 32  5 29 11 24 18  1 17 27 34 28  6 35]: 248970
+Peor solución encontrada: [37 30 26 25 20 23 39  2 22  4 12 15 31  9  7 16 38 19  0 14 13 10  8 33
+  3 36 21 32  5 29 11 24 18  1 17 27 34 28  6 35]: 248970
+Tiempo promedio de ejecución: 172.0122230052948
+Desviación estandar tiempo de ejecución: 0.0
+Valor máximo (tiempo de ejecución): 172.0122230052948
+Valor mínimo (tiempo de ejecución): 172.0122230052948
+
+================================================================================================================
+
+POP_SIZE = 100
+CRO_PROB = 0.9
+MUT_PROB = 0.2
+GEN_SIZE = 50000
+OFF_SIZE = 200
+RUNS = 1
+FILENAME = 'tho40.dat'
+
+Total time: 178.2335650920868
+Costo promedio: 253112.0
+Desviación estandar de costos: 0.0
+Mejor solución encontrada: [17  1 38 19 21  8  0 18 16  9 13 14 10 31 33 39 15 27 32 11  5  7 29  6
+ 22  3 36 28 12 26 20 23 30 37 35  4 34 24 25  2]: 253112
+Peor solución encontrada: [17  1 38 19 21  8  0 18 16  9 13 14 10 31 33 39 15 27 32 11  5  7 29  6
+ 22  3 36 28 12 26 20 23 30 37 35  4 34 24 25  2]: 253112
+Tiempo promedio de ejecución: 178.2335650920868
+Desviación estandar tiempo de ejecución: 0.0
+Valor máximo (tiempo de ejecución): 178.2335650920868
+Valor mínimo (tiempo de ejecución): 178.2335650920868
+3 min
+
+==================================================================================================================
+
+POP_SIZE = 100
+CRO_PROB = 0.9
+MUT_PROB = 0.2
+GEN_SIZE = 10000
+OFF_SIZE = 200
+RUNS = 30
+FILENAME = 'tho40.dat'
+
+Costo promedio: 251070.33333333334
+Desviación estandar de costos: 2790.0559651893886
+Mejor solución encontrada: [37 25  4 22 26 30 16  2 34 36 12 31 20 23  7 24  3 32 15 14 29  9 28 33
+ 17 27 21  5  0 10 11  6 38  1 19 18 13  8 39 35]: 245824
+Peor solución encontrada: [19  4 37 25  3 30 16  2 38 14 26 34 28 10  9 33  0 21  7 15 32 13  1 39
+ 17  5 12 31 27 36 22 23  6 20 24 29 11  8 18 35]: 257608
+Tiempo promedio de ejecución: 25.50906002521515
+Desviación estandar tiempo de ejecución: 0.28307857137251746
+Valor máximo (tiempo de ejecución): 26.173471450805664
+Valor mínimo (tiempo de ejecución): 25.086246013641357
+
+==================================================================================================================
+
+POP_SIZE = 60
+CRO_PROB = 0.9
+MUT_PROB = 0.2
+GEN_SIZE = 10000
+OFF_SIZE = 120
+RUNS = 30
+FILENAME = 'tho40.dat'
+
+Costo promedio: 250832.13333333333
+Desviación estandar de costos: 3078.0009067936
+Mejor solución encontrada: [16 35 24 10  9 11 13 39 30 34 28 21 19 38  1  8 33  4 31 14 15 32 27 36
+ 37 26  7  5  0 29  3 17  2 25 12 20 23  6 22 18]: 244866
+Peor solución encontrada: [18  4 12 21 17  0 38 19 37  1 26 20  5 14 13 30 24 25 31 34  7 28 10  9
+ 35 36 22 15  8 11 39 16  3 27 23 29 32  6 33  2]: 256700
+Tiempo promedio de ejecución: 16.146225078900656
+Desviación estandar tiempo de ejecución: 0.43023867598866683
+Valor máximo (tiempo de ejecución): 17.248480796813965
+Valor mínimo (tiempo de ejecución): 14.714450120925903
+
+POP_SIZE = 60
+CRO_PROB = 0.9
+MUT_PROB = 0.5
+GEN_SIZE = 10000
+OFF_SIZE = 120
+RUNS = 30
+FILENAME = 'tho40.dat'
+
+test(POP_SIZE,CRO_PROB,MUT_PROB,GEN_SIZE,OFF_SIZE,RUNS,FILENAME)
+
+Costo promedio: 249597.57333333333
+Desviación estandar de costos: 2099.7350789934317
+Mejor solución encontrada: [30 19 28  9 10 11 16  6 37  4 14  5 26  0 33  2 25 34 21 15 12 29 20 23
+  3 38 32 13 31  8  7 24 17 36 27  1 22 18 39 35]: 245496
+Peor solución encontrada: [35  6 17 36  3 32 27 18 37 31  0 19 38 14 13  1 30 12  5 21 29 11 15 22
+ 25 26 20  4  8 28 10 39  2 24  7 34 23 33  9 16]: 257236
+Tiempo promedio de ejecución: 13.52659679253896
+Desviación estandar tiempo de ejecución: 0.0440820819182731
+Valor máximo (tiempo de ejecución): 13.600423336029053
+Valor mínimo (tiempo de ejecución): 13.441222429275513
+
+
+
+POP_SIZE = 60
+CRO_PROB = 0.9
+MUT_PROB = 0.8
+GEN_SIZE = 10000
+OFF_SIZE = 120
+RUNS = 30
+FILENAME = 'tho40.dat'
+
+test(POP_SIZE,CRO_PROB,MUT_PROB,GEN_SIZE,OFF_SIZE,RUNS,FILENAME)
+
+Total time: 14.510576009750366
+Costo promedio: 250814.7611111111
+Desviación estandar de costos: 2844.926983442155
+Mejor solución encontrada: [35 30 26 25 12  4 17 37 24 28 34 31 21 36 27  3 33 11 29 15  5 14 32  8
+ 16 10  7 20  0 19 13 38  2  9 18 22 23  6  1 39]: 242494
+Peor solución encontrada: [18 12 26 25 36  4 30  6 35 22 23 20 14  0 19 37 24 31  7 28 34 11  5  3
+ 33  8 29 27 32 21 38 17 16  2  9  1 13 10 15 39]: 268810
+Tiempo promedio de ejecución: 14.555665334065756
+Desviación estandar tiempo de ejecución: 0.061955008442808344
+Valor máximo (tiempo de ejecución): 14.768864631652832
+Valor mínimo (tiempo de ejecución): 14.48717451095581
+
+POP_SIZE = 60
+CRO_PROB = 0.9
+MUT_PROB = 0.8
+GEN_SIZE = 10000
+OFF_SIZE = 120
+RUNS = 30
+FILENAME = 'lipa20a.dat'
+
+test(POP_SIZE,CRO_PROB,MUT_PROB,GEN_SIZE,OFF_SIZE,RUNS,FILENAME)
+
+Total time: 10.819541215896606
+Costo promedio: 3767.2233333333334
+Desviación estandar de costos: 33.745165799189856
+Mejor solución encontrada: [18 16  6  0  4  8  9 11  3 15 19  5  2 12 10 14 13  7  1 17]: 3683
+Peor solución encontrada: [19  8  3  4  0 16 17 10 15 18 13 14  7  9  6 12  5  1 11  2]: 3849
+Tiempo promedio de ejecución: 10.755711396535238
+Desviación estandar tiempo de ejecución: 0.04425131835306825
+Valor máximo (tiempo de ejecución): 10.83516001701355
+Valor mínimo (tiempo de ejecución): 10.6721031665802
+
+POP_SIZE = 60
+CRO_PROB = 0.9
+MUT_PROB = 0.8
+GEN_SIZE = 10000
+OFF_SIZE = 120
+RUNS = 30
+FILENAME = 'kra30a.dat'
+
+test(POP_SIZE,CRO_PROB,MUT_PROB,GEN_SIZE,OFF_SIZE,RUNS,FILENAME)
+
+Costo promedio: 95785.08888888889
+Desviación estandar de costos: 1716.7362794587507
+Mejor solución encontrada: [26 24 18  8  7 19 23 12  6 20 28 27  9 22 13 17 25 29  0 16  4  5 10 15
+  1  2 11 21  3 14]: 88900 
+Peor solución encontrada: [21 11  8 19  7  6 18 28 20 27 13 22 12  9  2  5  0 10  1  4 16 15 26  3
+ 25 17 23 29 24 14]: 103970
+Tiempo promedio de ejecución: 12.577272907892864
+Desviación estandar tiempo de ejecución: 0.05627157233051957
+Valor máximo (tiempo de ejecución): 12.681981801986694
+Valor mínimo (tiempo de ejecución): 12.468949317932129
+
+POP_SIZE = 60
+CRO_PROB = 0.9
+MUT_PROB = 0.8
+GEN_SIZE = 10000
+OFF_SIZE = 120
+RUNS = 30
+FILENAME = 'tai35b.dat'
+
+test(POP_SIZE,CRO_PROB,MUT_PROB,GEN_SIZE,OFF_SIZE,RUNS,FILENAME)
+
+Costo promedio: 305334056.7944444
+Desviación estandar de costos: 10014803.553074822
+Mejor solución encontrada: [13 11 32  1 21 29 10  7  0  2  4 19  9 16 17  8 18 31 12 26 15  3 33  5
+ 22 23  6 34 30 27 14 20 28 25 24]: 283645533 
+Peor solución encontrada: [ 4 32 11 13 21 18 25 29 12 33 19  2 17 31  9 16  0 24  1  8 26 15 23 20
+ 22  7 10 30  6 28  3  5 27 14 34]: 345639087
+Tiempo promedio de ejecución: 13.351626777648926
+Desviación estandar tiempo de ejecución: 0.031654546592306196
+Valor máximo (tiempo de ejecución): 13.398320436477661
+Valor mínimo (tiempo de ejecución): 13.271435976028442
